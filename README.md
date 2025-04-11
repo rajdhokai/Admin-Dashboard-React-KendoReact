@@ -24,7 +24,7 @@ A fully responsive **Admin Dashboard** built using **React** and **KendoReact** 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/admin-dashboard.git
+git clone https://github.com/rajdhokai/admin-dashboard.git
 
 # Navigate to the project directory
 cd admin-dashboard
